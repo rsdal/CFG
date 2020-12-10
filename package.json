@@ -1,0 +1,17 @@
+{
+  "name": "com.blazewing.cfg",
+  "version": "1.0.0",
+  "displayName": "CFG",
+  "description": "Package made with love \u2661 to create hierarchy folders on unity",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "keywords": [
+    "folder",
+    "hierarchy"
+  ],
+  "author": {
+    "name": "Laza",
+    "email": "rafaellazarinwork@gmail.com",
+    "url": "https://github.com/rsdal/CFG"
+  }
+}
